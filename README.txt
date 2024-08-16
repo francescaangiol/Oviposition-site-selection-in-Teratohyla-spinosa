@@ -1,7 +1,6 @@
 README: The effect of oviposition site selection on offspring survival in a glassfrog
-https://doi.org/10.5061/dryad.k6djh9wgm(opens in new window)
 
-Description of the data and file structure
+Description of the data:
 This data was collected for a clutch translocation experiment. The location of the laid clutches was manipulated and the objective was to compare their level of hydration, hatching time, and mortality rate to control clutches
 
 Files and variables
